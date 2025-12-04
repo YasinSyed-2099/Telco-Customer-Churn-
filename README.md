@@ -25,9 +25,9 @@ The goal is to understand why customers leave and to generate actionable insight
 ---
 
 ### **2. Python Analysis (Pandas + Seaborn + Matplotlib)**
-- Loaded the dataset using Pandas.  
-- Performed data exploration:  
-- Conducted visual analysis:  
+- Loaded the dataset using Pandas.
+- Performed data exploration.
+- Conducted visual analysis.
 
 ---
 
