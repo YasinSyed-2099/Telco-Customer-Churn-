@@ -1,6 +1,6 @@
 # Telco-Customer-Churn
 
-# Project: Telco Customer Churn Using SQL & Python
+# Telco Customer Churn Using SQL & Python
 
 ## Project Overview
 This project analyzes customer churn for a telecom company using a publicly available Telco Customer Churn dataset.  
