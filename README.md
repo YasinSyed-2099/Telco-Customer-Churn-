@@ -31,12 +31,8 @@ The goal is to understand why customers leave and to generate actionable insight
 
 ---
 
-### **3. Key Insights**
-- *(I will add after analysis)*
 
----
-
-### **4. Conclusion**
+### **3. Conclusion**
 This project demonstrates a complete end-to-end data analysis workflow:
 - SQL for data storage, cleaning, and aggregation  
 - Python for analysis and visualization  
