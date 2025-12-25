@@ -11,8 +11,7 @@ The goal is to understand why customers leave and to generate actionable insight
 ## Dataset and Project Files
 - Dataset : [Dataset.Csv](https://github.com/YasinSyed-2099/Telco-Customer-Churn-/blob/main/Telco-Customer-Churn.csv)
 - SQL : [Telco_customer_churn.SQL](https://github.com/YasinSyed-2099/Telco-Customer-Churn-/blob/main/SQL%20Telco_Customer_Churn_Analysis.sql)
-- Python : [Telco_customer_churn.ipynb](https://github.com/YasinSyed-2099/Telco-Customer-Churn-/blob/main/Telco%20Customer%20Churn-checkpoint.ipynb)
-
+- Python : [Telco_customer_churn.ipynb](https://github.com/YasinSyed-2099/Telco-Customer-Churn-/blob/main/Telco%20Customer%20Churn.ipynb)
 ---
 
 ## Project Process
